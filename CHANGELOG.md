@@ -1,5 +1,16 @@
 # Changelog
 
+## [9.8.0](https://github.com/npm/cli/compare/v9.7.2...v9.8.0) (2023-07-03)
+
+### Features
+
+* [`89b2741`](https://github.com/npm/cli/commit/89b27413952ca454f715fee314d37e26f371444d) [#6548](https://github.com/npm/cli/pull/6548) add ps1 scripts (#6548) (@mribbons, @lukekarrys)
+
+### Dependencies
+
+* [`9238682`](https://github.com/npm/cli/commit/92386822ddf0a849fd2c269b1f5ee9ee47082da0) [#6623](https://github.com/npm/cli/pull/6623) `sigstore@1.7.0` (#6623)
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmpublish-v7.5.0): `libnpmpublish@7.5.0`
+
 ## [9.7.2](https://github.com/npm/cli/compare/v9.7.1...v9.7.2) (2023-06-21)
 
 ### Bug Fixes
