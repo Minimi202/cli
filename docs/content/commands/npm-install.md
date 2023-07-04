@@ -702,4 +702,5 @@ the specific folder structures that npm creates.
 * [npm uninstall](/commands/npm-uninstall)
 * [npm shrinkwrap](/commands/npm-shrinkwrap)
 * [package.json](/configuring-npm/package-json)
-* [workspaces](/using-npm/workspaces)
+* [workspaces](/using-npm/works
+* paces)
